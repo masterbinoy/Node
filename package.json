@@ -1,0 +1,11 @@
+{
+  "name": "mynodeserver",
+  "version": "1.0.0",
+  "description": "I am trying to build a basic node server so that i can help codal in reducing cost in terms of multiple resources for different development needs  ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Binoy Wilson",
+  "license": "MIT"
+}
